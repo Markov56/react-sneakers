@@ -1,0 +1,74 @@
+[
+    {
+        "parentId": "1",
+        "title": "Мужские Кроссовки Nike Blazer Mid Suede",
+        "price": 5699,
+        "image": "./images/sneakers/1.jpg"
+    },
+    {
+        "parentId": "2",
+        "title": "Мужские Кроссовки Nike Air Max 270",
+        "price": 8999,
+        "image": "./images/sneakers/2.jpg"
+    },
+    {
+        "parentId": "3",
+        "title": "Мужские Кроссовки Nike Blazer Mid Suede",
+        "price": 12999,
+        "image": "./images/sneakers/3.jpg"
+    },
+    {
+        "parentId": "4",
+        "title": "Кроссовки Puma X Aka Boku Future Rider",
+        "price": 7999,
+        "image": "./images/sneakers/4.jpg"
+    },
+    {
+        "parentId": "5",
+        "title": "Мужские Кроссовки Under Armour Curry 8",
+        "price": 5699,
+        "image": "./images/sneakers/5.jpg"
+    },
+    {
+        "parentId": "6",
+        "title": "Мужские Кроссовки Nike Kyrie 7",
+        "price": 10699,
+        "image": "./images/sneakers/6.jpg"
+    },
+    {
+        "parentId": "7",
+        "title": "Мужские Кроссовки Jordan Air Jordan 11",
+        "price": 7899,
+        "image": "./images/sneakers/7.jpg"
+    },
+    {
+        "parentId": "8",
+        "title": "Мужские Кроссовки Nike LeBron XVIII",
+        "price": 9199,
+        "image": "./images/sneakers/8.jpg"
+    },
+    {
+        "parentId": "9",
+        "title": "Мужские Кроссовки Nike Lebron XVIII Low",
+        "price": 4299,
+        "image": "./images/sneakers/9.jpg"
+    },
+    {
+        "parentId": "10",
+        "title": "Мужские Кроссовки Nike Blazer Mid Suede",
+        "price": 1299,
+        "image": "./images/sneakers/10.jpg"
+    },
+    {
+        "parentId": "11",
+        "title": "Кроссовки Puma X Aka Boku Future Rider",
+        "price": 3299,
+        "image": "./images/sneakers/11.jpg"
+    },
+    {
+        "parentId": "12",
+        "title": "Мужские Кроссовки Nike Kyrie Flytrap IV",
+        "price": 14299,
+        "image": "./images/sneakers/12.jpg"
+    }
+]
